@@ -1,0 +1,10 @@
+# Mac directory file
+.DS_Store
+
+# object file
+*.o
+
+# other
+server
+client
+other
